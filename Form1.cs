@@ -31,7 +31,7 @@ namespace IT_prakrika_5
           label1.Text += "";
         }
         else label1.Text += str[i]; 
-        i++;
+        i++; 
       }
     }
   }
